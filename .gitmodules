@@ -10,3 +10,7 @@
 	path = credit-control
 	url = https://github.com/OCA/credit-control.git
 	branch = 16.0
+[submodule "storage"]
+	path = storage
+	url = https://github.com/OCA/storage
+	branch = 16.0
