@@ -1,0 +1,4 @@
+[submodule "social"]
+	path = social
+	url = https://github.com/OCA/social.git
+	branch = 16.0
