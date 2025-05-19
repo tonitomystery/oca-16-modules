@@ -14,3 +14,15 @@
 	path = storage
 	url = https://github.com/OCA/storage.git
 	branch = 16.0
+[submodule "web"]
+	path = web
+	url = https://github.com/OCA/web.git
+	branch = 16.0
+[submodule "website"]
+	path = website
+	url = https://github.com/OCA/website.git
+	branch = 16.0
+[submodule "contract"]
+	path = contract
+	url = https://github.com/OCA/contract.git
+	branch = 16.0
